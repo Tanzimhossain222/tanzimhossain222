@@ -27,7 +27,23 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanzimhossain222&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzimhossain222&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@tanzimhossain222#gh-dark-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanzimhossain222&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+    <a href="https://wakatime.com/@tanzimhossain222#gh-light-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanzimhossain222&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+<p align="center">
+<!-- activity graph heroku-app end -->
+<p align="center">
+<a href="https://wakatime.com/@tanzimhossain2#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=tanzimhossain2&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@tanzimhossain2's wakatime stats"/></a>
+
+<a href="https://wakatime.com/@tanzimhossain2#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=tanzimhossain2&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@tanzimhossain2's wakatime stats"/></a>
+<p align="center">
 ---
+  
 [![](https://visitcount.itsvg.in/api?id=tanzimhossain222&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
